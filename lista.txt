@@ -1,4 +1,4 @@
-subtitle="https://raw.githubusercontent.com/TugaTeamvod/TESTE/refs/heads/main/legendas/The.Jester.2.2025.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.srt"
+subtitle="https://raw.githubusercontent.com/TugaTeamvod/TESTE/refs/heads/main/legendas/The.Jester.2.2025.srt"
 language="Portuguese (Brasil)"
 flag="pb"
 rating="5"
