@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Filme Exemplo 1",
+    "lang": "por",
+    "url": "https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/subs/filme_exemplo_1.srt"
+  },
+  {
+    "title": "Filme Exemplo 2",
+    "lang": "por",
+    "url": "https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/subs/filme_exemplo_2.srt"
+  },
+  {
+    "title": "Série ABC - Episódio 1",
+    "lang": "por",
+    "url": "https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/subs/serie_abc_ep1.srt"
+  },
+  {
+    "title": "Série ABC - Episódio 2",
+    "lang": "por",
+    "url": "https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/subs/serie_abc_ep2.srt"
+  }
+]
