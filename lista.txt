@@ -1,4 +1,4 @@
-subtitle="https://raw.githubusercontent.com/TugaTeamvod/TESTE/refs/heads/main/legendas/The.Jester.2.2025.srt"
+subtitle="https://raw.githubusercontent.com/TugaTeamvod/TESTE/refs/heads/main/legendas/TheJester22025/The.Jester.2.2025.srt"
 language="Portuguese (Brasil)"
 flag="pb"
 rating="5"
