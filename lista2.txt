@@ -1,4 +1,4 @@
-subtitle="https://meu-servidor.com/legendas/FilmeXYZ.srt" language="Português" flag="https://meu-servidor.com/flags/pt.png" rating="5"
+subtitle="https://raw.githubusercontent.com/TugaTeamvod/TESTE/refs/heads/main/legendas/TheJester22025/The.Jester.2.2025.srt" language="Português" flag="https://meu-servidor.com/flags/pt.png" rating="5"
 subtitle="https://meu-servidor.com/legendas/FilmeXYZ.en.srt" language="English" flag="https://meu-servidor.com/flags/en.png" rating="4"
 subtitle="https://meu-servidor.com/legendas/SerieABC_S01E01.srt" language="Português" flag="https://meu-servidor.com/flags/pt.png" rating="5"
 subtitle="https://meu-servidor.com/legendas/SerieABC_S01E01.en.vtt" language="English" flag="https://meu-servidor.com/flags/en.png" rating="3"
